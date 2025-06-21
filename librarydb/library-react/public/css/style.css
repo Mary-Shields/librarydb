@@ -1,0 +1,17 @@
+*{box-sizing: border-box;}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #c3f9f4;
+    scroll-behavior: smooth;
+}
+
+.greetings{
+    font-size: 45px;
+}
+
+
+#homeImg{
+    padding-left: 150px ;
+}
